@@ -1,13 +1,14 @@
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcr776&show_icons=true&theme=dark)
 # Pedro Casado Rivero
 
-Software Engineer focused on backend development and software architecture.
+Computer Engineering student currently in my final year.
 
-Final-year Computer Engineering student currently working as a Backend Developer (internship), building REST APIs with Java and Spring Boot.
+I am doing a backend development internship while continuing to build personal projects to strengthen my understanding of Java and Spring Boot.
+
+My goal at this stage is to grow as a software developer, improve clean architecture practices, and gain real-world development experience.
 
 ---
 
-## Tech Stack
+## Tech Stack (Learning & Using)
 
 - Java
 - Spring Boot
@@ -18,21 +19,23 @@ Final-year Computer Engineering student currently working as a Backend Developer
 
 ---
 
-## Currently
+## Current Focus
 
-- Developing REST APIs with Spring Boot
-- Improving clean architecture and backend best practices
-- Expanding portfolio with production-ready projects
+- Learning backend development with Spring Boot
+- Building small REST APIs to practice architecture and structure
+- Improving code organization and best practices
 
 ---
 
-## Featured Project
+## Projects
 
 ### spring-boot-user-management-api
-Basic REST API for user management built with Spring Boot.
+REST API built as a learning project to practice:
 - Layered architecture (controller / service / repository)
-- Clean structure
-- Public repository available on my profile
+- Basic CRUD operations
+- Clean project structure
+
+More projects coming soon as I continue learning and building.
 
 ---
 
